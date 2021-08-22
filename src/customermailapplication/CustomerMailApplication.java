@@ -13,7 +13,6 @@ import java.util.Scanner;
  * @author sarun
  */
 public class CustomerMailApplication {
-
     /**
      * @param args the command line arguments
      */
